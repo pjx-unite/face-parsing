@@ -3,24 +3,24 @@ import numpy as np
 
 
 ATTRIBUTES = [
-    'skin',
-    'l_brow',
+    'skin',    # “皮肤”
+    'l_brow', # 额头
     'r_brow',
     'l_eye',
     'r_eye',
     'eye_g',
-    'l_ear',
+    'l_ear',  # 耳朵
     'r_ear',
     'ear_r',
-    'nose',
-    'mouth',
+    'nose',    # 鼻子
+    'mouth',    #  嘴
     'u_lip',
     'l_lip',
-    'neck',
-    'neck_l',
+    'neck', # 脖子
+    'neck_l',  #
     'cloth',
     'hair',
-    'hat'
+    'hat' # 帽子
 ]
 
 COLOR_LIST = [
